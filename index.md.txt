@@ -1,0 +1,9 @@
+# Minun GitHub Pages -verkkosivusto
+
+Tervetuloa yksinkertaiseen verkkosivustooni!
+
+## Tietoa Minusta
+
+Olen oppimassa Markdownia ja GitHub Pagesia.
+
+![GitHub-logo](images/github-logo.png)
