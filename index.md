@@ -1,9 +1,9 @@
-# Minun GitHub Pages -verkkosivusto
+# Tervetuloa Jimi Jakolan Verkkosivulle!
 
-Tervetuloa yksinkertaiseen verkkosivustooni!
+Tässä on Bundle E tehtävänä ollut staattinen verkkosivu.
 
-## Tietoa Minusta
+##Linkin teko
+Voit ottaa minuun yhteyttä sähköpostitse osoitteessa [jimi.jakola@example.com](mailto:jimi.jakola@example.com).
 
-Olen oppim<assa Markdownia ja GitHub Pagesia.
 
-![GitHub-logo](images/github-logo.png)
+
